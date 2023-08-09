@@ -1,0 +1,42 @@
+NON SON GRATIS:
+- Layar
+-------------------
+
+CON PROCESSING:
+https://mosaic.uoc.edu/2013/04/24/realidad-aumentada-con-lenguaje-de-programacion-processing/
+CON JAVASCRIPT:
+https://www.youtube.com/watch?v=6KBfHiDl-bs
+CON UNITY:
+https://www.youtube.com/watch?v=wwRxlV6SRLA
+CON CUBO MERGE:
+https://www.youtube.com/watch?v=D5l5_qNfT50
+https://mergeedu.com/miniverse?cr=1424
+GLITCH:
+https://glitch.com/
+https://successful-accurate-tyrannosaurus.glitch.me
+https://glitch.com/edit/#!/successful-accurate-tyrannosaurus
+---
+CON AFRAME:
+https://www.acceseo.com/crea-tu-primera-aplicacion-de-realidad-virtual-con-a-frame.html
+
+
+https://emiliusvgs.com/spark-ar-gif-sprite-sheet-tutorial/
+https://emiliusvgs.com/como-hacer-realidad-aumentada/
+
+
+
+
+------------------
+https://www.iste.org/es/explore/tools-devices-and-apps/create-ar-using-these-5-apps
+------------------
+Documentos Springer:
+https://link.springer.com/book/10.1007/978-3-658-00197-1
+https://link.springer.com/article/10.1007/s40670-023-01821-z
+https://link.springer.com/article/10.1007/s40670-022-01659-x
+https://link.springer.com/article/10.1007/s42979-023-01675-7
+https://link.springer.com/article/10.1007/s40670-023-01809-9
+https://link.springer.com/article/10.1007/s10758-021-09542-1
+https://link.springer.com/article/10.1186/s12909-023-04443-6
+https://link.springer.com/article/10.1007/s10758-023-09643-z
+https://link.springer.com/article/10.1007/s40692-023-00275-x
+

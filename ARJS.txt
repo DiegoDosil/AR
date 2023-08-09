@@ -1,0 +1,38 @@
+Existen 3 posibilidades:
+1) Image Tracking.-Cunha imaxe que nós queiramos
+2) Location Based.-Con coordenadas GPS
+3) Marker Based.-Cun marcador
+---
+1) Image Tracking.- Escollemos unha imaxe que teña a mellor calidade posible e subímola ao NFT Marker Creator:
+https://carnaux.github.io/NFT-Marker-Creator/#/
+Isto creará 3 arquivos que se descargarán automáticamente a Descargas.
+
+
+
+
+
+
+
+3) Marker Based.- Por exemplo con Hiro Marker (https://github.com/pedrovelasquez9/ARJS-example/blob/main/Hiro_marker_ARjs.png), para crear unha esfera:
+Head:
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+Body:
+<a-scene arjs>
+  <a-marker preset="hiro">
+    <a-entity position="0 0 0" scale="0.1 0.1 0.1">
+      <a-sphere radius="5" color="blue">
+      </a-sphere>
+    </a-entity>
+  </a-marker>
+  <a-entity camera position="0 0 0"></a-entity>
+    </a-scene>
+----
+Pódese introducir un arquivo gltf (aínda que no exemplo poña un con extensión glb).:
+https://www.khronos.org/gltf/
+https://github.com/KhronosGroup/glTF-Sample-Models
+https://www.youtube.com/watch?v=6KBfHiDl-bs
