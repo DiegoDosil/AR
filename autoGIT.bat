@@ -1,5 +1,3 @@
-git init
 git add .
-git commit -m "first commit"
-git remote add origin https://github.com/DiegoDosil/AR.git
+git commit -m "proba"
 git push -u origin master
