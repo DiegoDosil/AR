@@ -32,7 +32,27 @@ Body:
   <a-entity camera position="0 0 0"></a-entity>
     </a-scene>
 ----
-Pódese introducir un arquivo gltf (aínda que no exemplo poña un con extensión glb).:
+Para agregar un mundo:
+Head:
+<script src="https://unpkg.com/aframe-environment-component@1.0.0/dist/aframe-environment-component.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/donmccurdy/aframe-extras@v6.1.0/dist/aframe-extras.min.js"></script>
+Body:
+<a-entity environment ></a-entity>
+----
+
+AFRAME:
+https://codehs.com/documentation/aframe#docs-aframe-world
+https://babiaxr.gitlab.io/tutorials/get_started/
+https://ciberimaginario.es/2023/02/17/guia-basica-para-crear-un-entorno-inmersivo-con-a-frame/
+https://aframe.io/docs/1.4.0/introduction/
+
+
+
+
+
+Pódese introducir un arquivo gltf.
 https://www.khronos.org/gltf/
 https://github.com/KhronosGroup/glTF-Sample-Models
 https://www.youtube.com/watch?v=6KBfHiDl-bs
+
+https://raw.githubusercontent.com/DiegoDosil/AR/master/Marcadores%20AR/hiro.png
