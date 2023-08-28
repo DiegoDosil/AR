@@ -5,6 +5,8 @@ Modelos 3D:
 https://sketchfab.com/3d-models?date=week&features=downloadable&sort_by=-likeCount&cursor=bz0xJnA9MzI%3D
 -------------------
 
+CON MIND_AR_JS:
+https://github.com/hiukim/mind-ar-js
 CON PROCESSING:
 https://mosaic.uoc.edu/2013/04/24/realidad-aumentada-con-lenguaje-de-programacion-processing/
 CON JAVASCRIPT:
@@ -21,6 +23,7 @@ https://glitch.com/edit/#!/successful-accurate-tyrannosaurus
 ---
 CON AFRAME:
 https://www.acceseo.com/crea-tu-primera-aplicacion-de-realidad-virtual-con-a-frame.html
+
 
 
 https://emiliusvgs.com/spark-ar-gif-sprite-sheet-tutorial/
