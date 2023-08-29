@@ -1,3 +1,6 @@
+https://aframe.io/blog/arjs/
+
+
 Existen 3 posibilidades:
 1) Image Tracking.-Cunha imaxe que nós queiramos
 2) Location Based.-Con coordenadas GPS
@@ -21,6 +24,9 @@ b) type="pattern". Cun patrón. Os requisitos son:
 	b.2) Ten que ser cadrado. Por exemplo 512*512 px
 	b.3) Formato PNG ou JPEG
 	b.4) 
+Creador de patróns: https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+Tutorial: https://medium.com/arjs/how-to-create-your-own-marker-44becbec1105
+
 c) type="barcode". Códigos de barras (vid https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection)
 
 
