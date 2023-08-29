@@ -13,7 +13,20 @@ Isto creará 3 arquivos que se descargarán automáticamente a Descargas.
 
 
 
-3) Marker Based.- Por exemplo con Hiro Marker (https://github.com/pedrovelasquez9/ARJS-example/blob/main/Hiro_marker_ARjs.png), para crear unha esfera:
+3) Marker Based.- 
+Poden ser de 3 tipos:
+a) preset="hiro" ou "kenji". Marcadores predefinidos
+b) type="pattern". Cun patrón. Os requisitos son:
+	b.1) Debe ser en branco e negro. Sen sombras nin gradientes
+	b.2) Ten que ser cadrado. Por exemplo 512*512 px
+	b.3) Formato PNG ou JPEG
+	b.4) 
+c) type="barcode". Códigos de barras (vid https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection)
+
+
+
+
+Por exemplo con Hiro Marker (https://github.com/pedrovelasquez9/ARJS-example/blob/main/Hiro_marker_ARjs.png), para crear unha esfera:
 Head:
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -57,3 +70,6 @@ https://www.youtube.com/watch?v=6KBfHiDl-bs
 https://sketchfab.com/Sketchfab
 
 https://raw.githubusercontent.com/DiegoDosil/AR/master/Marcadores%20AR/hiro.png
+https://raw.githubusercontent.com/DiegoDosil/AR/master/Marcadores%20AR/Patterns/patron_001.png
+Marcadores Hiro e Kanji:
+https://aframe.io/blog/arjs/
