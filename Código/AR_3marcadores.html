@@ -1,0 +1,37 @@
+<!--Isto funciona con 3 patróns:-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Proba AR con múltiples marcadores</title>
+	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+</head>
+<body>
+<a-scene arjs>
+<!-- Marcador 1 -->
+  <a-marker preset="hiro">
+<!-- Elemento que se amosa cando detecta o marcador hiro -->
+    <a-entity position="0 -2 0" scale="1 1 1">
+      <a-entity position="0 0 0" scale="1" gltf-model="https://raw.githubusercontent.com/DiegoDosil/AR/master/gltf/human cell/human_cell/scene.gltf">
+      </a-entity>
+    </a-entity>
+  </a-marker>
+<!-- Marcador kanji -->
+    <a-marker preset="kanji">
+<!-- Elemento que se amosa cando detecta o marcador kanji -->
+  <a-box position='0 -2 0' material='color: red;'></a-box>
+    </a-marker>
+      <!-- Marcador 3 (patrón personalizado) -->
+    <a-marker type="pattern" url="https://raw.githubusercontent.com/DiegoDosil/AR/master/Marcadores%20AR/Patterns/pattern-0.patt">
+<!-- Elemento que se amosa cando detecta o marcador personalizado -->
+        <a-entity position="0 -2 0" scale="1 1 1">
+            <a-entity position="0 0 0" scale="1" gltf-model="https://raw.githubusercontent.com/DiegoDosil/AR/master/gltf/human%20cell/human_cell/scene.gltf">
+            </a-entity>
+        </a-entity>
+    </a-marker>
+</a-scene>
+</body>
+</html>

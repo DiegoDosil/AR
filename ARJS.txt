@@ -60,10 +60,13 @@ Body:
 ----
 
 AFRAME:
+https://aframe.io/docs/1.4.0/introduction/
+
+
 https://codehs.com/documentation/aframe#docs-aframe-world
 https://babiaxr.gitlab.io/tutorials/get_started/
 https://ciberimaginario.es/2023/02/17/guia-basica-para-crear-un-entorno-inmersivo-con-a-frame/
-https://aframe.io/docs/1.4.0/introduction/
+
 
 
 
@@ -76,6 +79,6 @@ https://www.youtube.com/watch?v=6KBfHiDl-bs
 https://sketchfab.com/Sketchfab
 
 https://raw.githubusercontent.com/DiegoDosil/AR/master/Marcadores%20AR/hiro.png
-https://raw.githubusercontent.com/DiegoDosil/AR/master/Marcadores%20AR/Patterns/patron_001.png
+
 Marcadores Hiro e Kanji:
 https://aframe.io/blog/arjs/
