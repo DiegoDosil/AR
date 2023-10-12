@@ -1,4 +1,5 @@
-https://aframe.io/blog/arjs/
+
+1     3334W93https://aframe.io/blog/arjs/
 
 
 Existen 3 posibilidades:

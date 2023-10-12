@@ -4,7 +4,8 @@ NON SON GRATIS:
 Modelos 3D:
 https://sketchfab.com/3d-models?date=week&features=downloadable&sort_by=-likeCount&cursor=bz0xJnA9MzI%3D
 -------------------
-
+CON BLENDER:
+https://www.youtube.com/watch?v=1-ySNuJwBks
 CON MIND_AR_JS:
 https://github.com/hiukim/mind-ar-js
 CON PROCESSING:
